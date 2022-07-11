@@ -18,4 +18,4 @@
         }
     }
 
-    header('Location: http://localhost:3000');
+    header('Location: /');
